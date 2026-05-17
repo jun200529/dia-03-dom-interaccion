@@ -1,5 +1,10 @@
 # Día 3 - Interacción con DOM 
 
+## Live Demo
+
+[Ver proyecto](https://TU-USUARIO.github.io/dia-03-dom-interaccion/)
+
+
 ## Objetivo
 
 Aprender a conectar JavaScript con HTML usando el DOM y eventos.

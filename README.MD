@@ -1,4 +1,4 @@
-# Día 3 - Interacción con DOM 🚀
+# Día 3 - Interacción con DOM 
 
 ## Objetivo
 

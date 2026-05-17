@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-[Ver proyecto](https://TU-USUARIO.github.io/dia-03-dom-interaccion/)
+[Ver proyecto](https://jun200529.github.io/dia-03-dom-interaccion/)
 
 
 ## Objetivo
